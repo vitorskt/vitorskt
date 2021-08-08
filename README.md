@@ -1,7 +1,7 @@
 ## Hi, I'm Vitor Nascimento!
 
 
-- 🔭 I’m currently working on Data Engineer
+- 🔭 I’m currently working as Data Engineer
 - 🌱 I’m currently learning Spark
 - 😄 Pronouns: He/His
 
